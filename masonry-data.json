@@ -3,13 +3,13 @@
 		{
 			"heading": "Etiam Ipsum Euismod",
 			"content": "Maecenas faucibus mollis interdum. Nullam id dolor id nibh ultricies vehicula ut id elit.",
-			"image": "/tiles/img/masonry1.jpg",
+			"image": "images/tn01.jpg",
 			"meta": "Fringilla Commodo"
 		},
 		{
 			"heading": "Dolor Ipsum Sollicitudin",
 			"content": "Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.",
-			"image": "/tiles/img/masonry2.jpg",
+			"image": "images/tn02.jpg",
 			"meta": "Pharetra Ultricies"
 		},
 		{
@@ -21,7 +21,7 @@
 		{
 			"heading": "Elit Porta Tellus Ultricies",
 			"content": "Vestibulum id ligula porta felis euismod semper. Etiam porta sem malesuada magna mollis euismod.",
-			"image": "/tiles/img/masonry3.jpg",
+			"image": "images/tn03.jpg",
 			"meta": "Parturient Ipsum"
 		},
 		{
@@ -33,13 +33,13 @@
 		{
 			"heading": "Mattis Ridiculus",
 			"content": "Donec id elit non mi porta gravida at eget metus. Aenean lacinia bibendum nulla sed consectetur.",
-			"image": "/tiles/img/masonry4.jpg",
+			"image": "images/tn04.jpg",
 			"meta": ""
 		},
 		{
 			"heading": "Vehicula Mattis Fringilla",
 			"content": "Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nulla vitae elit libero, a pharetra augue.",
-			"image": "/tiles/img/masonry5.jpg",
+			"image": "images/tn05.jpg",
 			"meta": "Aenean Lorem"
 		},
 		{
@@ -51,7 +51,7 @@
 		{
 			"heading": "Risus Tristique Cras",
 			"content": "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec sed odio dui.",
-			"image": "/tiles/img/masonry6.jpg",
+			"image": "images/tn06.jpg",
 			"meta": "Bibendum Condimentum"
 		}
 	]
