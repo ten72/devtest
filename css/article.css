@@ -1,0 +1,26 @@
+
+body { font-family: "Open Sans", Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 300; color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); }
+body::after { content: url("../images/lg-photo01.jpg") url("../images/lg-photo02.jpg") url("../images/lg-photo03.jpg"); display: none; }
+.right { float: right; }
+video { width: 100%; height: auto; }
+.video-container { max-width: 494px; border-bottom: thin solid rgb(51, 51, 51); padding-bottom: 15px; margin: 10px -133px 10px 10px; }
+.text-light { font-weight: 300 !important; }
+.img-title { font-weight: 700; font-size: 25px; }
+p { margin: 0px 0px 20px; }
+img { width: 100%; height: auto; }
+.content { padding-right: 133px; padding-left: 20px; }
+.container { max-width: 1141px; margin: 0px auto; overflow: hidden; }
+.pb24 { padding-bottom: 24px; }
+.row, .column { box-sizing: border-box; }
+.row::before, .row::after { content: " "; display: table; }
+.row::after { clear: both; }
+.column { position: relative; float: left; display: block; }
+.column + .column { margin-left: 1.6%; }
+.column-2 { width: 15.3333%; }
+.column-6 { width: 49.2%; }
+.column-12 { width: 100%; margin-left: 0px; }
+.display-grid .column { border: 1px solid rgb(204, 204, 204); border-radius: 4px; color: rgb(119, 119, 119); padding: 5px; min-height: 30px; text-align: center; background: rgb(238, 238, 238); }
+.column { padding: 5px; min-height: 30px; }
+.row { margin-bottom: 10px; }
+.row:last-child { margin-bottom: 0px; }
+.display-grid .column .column { color: rgb(238, 238, 238); border-color: rgb(0, 0, 0); background: rgb(51, 51, 51); }

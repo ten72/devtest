@@ -1,0 +1,138 @@
+body {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  font-weight:300;
+  color: #333;
+  background-color: #fff;
+}
+
+h1, .h1 {
+  font-size: 43px;
+  margin:0;
+  line-height:55px;
+  padding:0;
+}
+h2, .h2 {
+  font-size: 32px;
+  font-weight:300;
+}
+h3, .h3 {
+  font-size: 24px;
+}
+h4, .h4 {
+  font-size: 18px;
+}
+h5, .h5 {
+  font-size: 14px;
+}
+h6, .h6 {
+  font-size: 12px;
+}
+
+.border{border:thin solid #ccc;}
+
+.clear{clear:both;}
+
+.left{float:left;}
+
+.right{float:right;}
+
+video {
+	width: 100%;
+    height: auto;
+}
+.video-container{
+	max-width: 494px;
+	border-bottom:thin solid #333;
+	padding-bottom:15px;
+	margin:10px;
+	margin-right:-133px;
+}
+
+
+.text-line-50{ line-height:50px!important; }
+.text-line-35{ line-height:35px!important; }
+.text-line-20{ line-height:20px!important; }
+
+.text-light{ font-weight:300!important; }
+.text-normal{ font-weight:400!important; }
+.text-semibold{ font-weight:600!important; }
+.text-bold{ font-weight:700!important; }
+.text-extrabold{ font-weight:800!important; }
+.text-liteitalic{ font-weight:300!important;font-style: italic!important; }
+
+.img-title{
+	font-weight:700;
+	font-size:25px;
+}
+.news{
+	font-size:24px;
+	color:#015F83;
+}
+.sub-news{
+	font-size:24px;
+}
+
+
+p {
+  margin: 0 0 20px;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+.content{
+	padding-right:133px;
+	padding-left:20px;
+}
+.title-heads{
+	border-bottom:3px solid;
+	font-size:24px;
+	padding:15px;
+	font-weight:700;
+	margin:10px 0px 25px;
+}
+.area-head{
+	border-bottom-color:#DF4662;
+}
+.news-head{
+	border-bottom-color:#015F83;
+}
+.inspirational-head{
+	border-bottom-color:#6BA439;
+}
+.news-title{
+	font-size:25px;
+	font-weight:700;
+}
+.learn-more{
+	font-size:18px;
+	color:#015F83;
+}
+
+
+/*Spacing*/
+.pb90{
+	padding-bottom:90px;
+}
+.pb36{
+	padding-bottom:36px;
+}
+.pb26{
+	padding-bottom:26px;
+}
+.pb24{
+	padding-bottom:24px;
+}
+.pb18{
+	padding-bottom:18px;
+}
+.pb10{
+	padding-bottom:10px;
+}
+.pb7{
+	padding-bottom:7px;
+}
+.pb4{
+	padding-bottom:4px;
+}
